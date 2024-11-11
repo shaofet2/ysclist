@@ -1,0 +1,33 @@
+{  
+    "urls": [
+        //{"name": "饭太硬","url": "http://饭太硬.top/tv"},
+        {"name": "肥猫","url": "http://肥猫.com/"},	
+        {"name": "云星日记","url": "http://itvbox.cc/云星日记"},  
+        {"name": "喵影视线路","url": "http://meowtv.cn/tv"},    		
+        //{"name": "荷城茶秀","url": "http://rihou.cc:88/荷城茶秀"}, 	
+        //{"name": "巧技","url":"http://pandown.pro/tvbox/tvbox.json"}, 
+        //{"name": "运输车1","url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"}, 
+        {"name": "运输车2","url":"https://weixine.net/ysc.json"},
+        {"name": "欧歌家庭","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},	
+        {"name": "欧歌阿里","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"}, 	
+        {"name": "吾爱线路","url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},	
+        //{"name": "Ray线路","url": "https://xhdwc.tk/0"},			
+        //{"name": "小米线路","url": "http://xhww.fun:63/小米/DEMO.json"},
+        //{"name": "千软汇聚","url":"http://qrh.yimkj.cn/qrh/千软汇.json"},
+        //{"name": "菜妮丝","url":"https://tvbox.cainisi.cf"},	
+        //{"name": "南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+        //{"name": "综合大全","url":"https://agit.ai/hu/sj/raw/branch/master/520.json"},
+        {"name": "高天流云","url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+        {"name": "拾光畅谈","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"},	
+        {"name": "拾光4K","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"},	
+        //{"name": "多多家庭","url": "http://tvkj.top/DC/dd/tvkj/svip.json"},
+        //{"name": "多多阿里","url": "http://tvkj.top/DC/al/tvkj/svip.json"},
+        //{"name": "阿里玩偶","url": "http://qrh.yimkj.cn/al/阿里.json"},	
+        //{"name": "天薇视讯","url":"http://tvkj.top/DC/tvys/svip.json"},		
+        {"name": "小雅外网","url":"https://shaofetxy.ddnsto.com/tvbox/my_ext.json"},
+        {"name": "小雅内网","url":"https://shaofetxy.ddnsto.com/tvbox/my.json"},	
+        {"name": "🈲本仓库由ffq整理🈲","url":"https://www.qq.com"},
+        {"name": "🈲禁止贩卖🈲","url":"https://www.163.com"}
+    ]
+}
+//APP导入接口地址 https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/ffq.txt
