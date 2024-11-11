@@ -1,0 +1,25 @@
+{
+"storeHouse": [
+{"sourceName":"🦊ffq聚合仓🦊","sourceUrl":"https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/jiekou.txt"},
+{"sourceName":"欧歌仓库","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"sourceName":"网络仓库有失效","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+//{"sourceName":"多多聚合仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/duo.json"},
+//{"sourceName":"乐享汇专线","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/zx.json"},
+{"sourceName":"🈲ffq整理🈲","sourceUrl":"https://www.163.com/"},
+{"sourceName":"🈲禁止贩卖🈲","sourceUrl":"https://www.baidu.com/"}
+]}
+
+//目前自用仓库 https://gitcode.net/dashboard/projects/home 微信扫描登陆
+//目前自用仓库 https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/ffq.txt 微信扫描登陆
+//APP导入接口地址 https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/ffq.txt
+
+//开源仓库   
+//   - https://github.com/  
+//   - https://gitcode.net/    
+
+//  - https://codeberg.org/   
+// https://codeberg.org/用户名/仓库/raw/branch/main/m.json  
+//   - https://agit.ai/    
+// https://www.agit.ai/用户名/仓库/raw/branch/main/m.json   
+//  - https://notabug.org   
