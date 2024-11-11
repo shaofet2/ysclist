@@ -30,4 +30,4 @@
         {"name": "🈲禁止贩卖🈲","url":"https://www.163.com"}
     ]
 }
-//APP导入接口地址 https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/ffq.txt
+//APP导入接口地址 https://mirror.ghproxy.com/https://github.com/shaofet2/ysclist/raw/refs/heads/main/ffq.txt
