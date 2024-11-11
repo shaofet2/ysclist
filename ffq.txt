@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"🦊ffq聚合仓🦊","sourceUrl":"https://gitcode.net/shaofet/tvboxjiekou/-/raw/master/jiekou.txt"},
+{"sourceName":"🦊ffq聚合仓🦊","sourceUrl":"https://raw.githubusercontent.com/shaofet2/ysclist/refs/heads/main/jiekou.txt"},
 {"sourceName":"欧歌仓库","sourceUrl":"http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
 {"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName":"网络仓库有失效","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"},
