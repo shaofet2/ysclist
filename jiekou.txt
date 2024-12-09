@@ -12,7 +12,7 @@
         {"name": "运输车2","url":"https://weixine.net/ysc.json"},
         {"name": "欧歌家庭","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},	
         {"name": "欧歌阿里","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"}, 	 
-        {"name": " 欧歌2","url":"https://tv.nxog.top/m/?&Pud?&hb1"},
+        {"name": "欧歌2","url":"https://tv.nxog.top/m/?&Pud?&hb1"},
         {"name": "吾爱线路","url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},	
         {"name": "纯一骚零","url":"https://100km.top/0"}
         {"name": "OK屌炸天","url":"http://ok321.top/tv"}
