@@ -4,8 +4,7 @@
 {"sourceName":"欧歌仓库","sourceUrl":"https://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=%E6%AC%A7%E6%AD%8C"},
 //{"sourceName":"多多聚合仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/duo.json"},
 //{"sourceName":"乐享汇专线","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/zx.json"},
-{"sourceName":"🈲ffq整理🈲","sourceUrl":"https://www.163.com/"},
-{"sourceName":"🈲禁止贩卖🈲","sourceUrl":"https://www.baidu.com/"}
+{"sourceName":"🈲ffq整理 禁止贩卖🈲","sourceUrl":"https://www.163.com/"},
 ]}
 
 //目前自用仓库 https://gitcode.net/dashboard/projects/home 微信扫描登陆
