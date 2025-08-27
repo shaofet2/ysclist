@@ -28,4 +28,4 @@
         {"name": "🈲ffq整理 禁止贩卖🈲","url":"https://www.qq.com"}
     ]
 }
-//APP导入接口地址 https://mirror.ghproxy.com/https://github.com/shaofet2/ysclist/raw/refs/heads/main/ffq.txt
+//APP导入接口地址 https://ghfast.top/https://raw.githubusercontent.com/shaofet2/ysclist/refs/heads/main/ffq.txt
