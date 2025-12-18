@@ -7,7 +7,7 @@
 //{"sourceName":"🈲ffq整理 禁止贩卖🈲","sourceUrl":"https://www.163.com/"}
 ]}
 
-//目前自用仓库 https://github.com/shaofet2/ysclist
+//目前自用仓库 https://github.com/shaofet2/ysclist  shaofet@163.com
 //目前自用仓库 https://ghfast.top/https://raw.githubusercontent.com/shaofet2/ysclist/refs/heads/main/ffq.txt 微信扫描登陆
 //APP导入接口地址 https://ghfast.top/https://raw.githubusercontent.com/shaofet2/ysclist/refs/heads/main/ffq.txt
 
